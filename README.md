@@ -1,4 +1,4 @@
-<h1>Cloud Storage May</h1>
+<h1>Cloud Storage</h1>
 <h3>Desktop file manager</h3>
 <h4>Functions:</h4>
 <ol>
