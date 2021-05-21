@@ -87,6 +87,7 @@ public class TelnetServer {
                     sendMessage(COPY_COMMAND, selector, client);
                     sendMessage(CAT_COMMAND, selector, client);
                     sendMessage(NICKNAME_COMMAND, selector, client);
+                    sendMessage(CHANGE_NICKNAME_COMMAND, selector, client);
                     break;
                 case "ls":
                     sendMessage(getFileList().concat("\n"), selector, client);
